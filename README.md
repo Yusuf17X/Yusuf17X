@@ -25,4 +25,4 @@ Improving backend development skills, designing better APIs, and building real-w
 
 ## 📫 Contact
 
-* LinkedIn: 
+* LinkedIn: https://www.linkedin.com/in/yousif-mohammed-dev
