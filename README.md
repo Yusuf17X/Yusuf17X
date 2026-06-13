@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Yousif 👋
 
-<!--
-**Yusuf17X/Yusuf17X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BIT student at UoITC focused on building full-stack web applications with a strong interest in backend systems and databases.
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Building full-stack web apps using Node.js (Express) and Python (FastAPI)
+* Working with PostgreSQL and MongoDB
+* Interested in backend architecture and API design
+* Currently developing SaaS-based projects
+
+## 🛠 Tech Stack
+
+* Node.js / Express
+* Python / FastAPI
+* PostgreSQL
+* MongoDB
+* HTML
+* CSS
+* JavaScript
+
+## 📌 Current Focus
+
+Improving backend development skills, designing better APIs, and building real-world SaaS applications.
+
+## 📫 Contact
+
+* LinkedIn: 
